@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test1">
+    <classes>
+      <class name="modelue_2_WedDriverAutomation.Assignment_1_ChromeBrowser"/>
+         </classes>
+  </test> <!-- Test -->
+  <test name="Test2">
+    <classes>
+       <class name="modelue_2_WedDriverAutomation.Assignment_1_EdgeBrowser"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Test3">
+    <classes>
+        <class name="modelue_2_WedDriverAutomation.Assignment_1_FireFoxBrowser"/>      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

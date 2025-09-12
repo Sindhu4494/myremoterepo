@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+   
+    <packages>
+    <package name="modelue_4_SearchingElementXpath"/>
+     <package name="module_8_FrameworksAndSynchronization"/>
+    </packages>
+         
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

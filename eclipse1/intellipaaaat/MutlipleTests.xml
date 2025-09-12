@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="tests" name="Suite">
+  <test name="Test1">
+    <classes>
+       <class name="modelue_2_WedDriverAutomation.Assignment_1_ChromeBrowser"/>
+        
+    </classes>
+  </test> <!-- Test -->
+   <test name="Test2">
+    <classes>
+     
+         <class name="modelue_4_SearchingElementXpath.Assignment_1_FacebookDirectLocators_Chrome"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

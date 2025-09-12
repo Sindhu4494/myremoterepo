@@ -1,0 +1,11 @@
+ 
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="pageObjectModelFrameWork.TC1_VerifyLoginPage"/>
+      <class name="pageObjectModelFrameWork.TC2_VerifyProductPage"/>
+      <class name="pageObjectModelFrameWork.TC3_VerifyCartPage"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
